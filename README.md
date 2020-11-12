@@ -4,4 +4,4 @@ e outra seção com uma grade de galeria, minha intençao
 era praticar responsividade
 
 ## Possiu link para conferir  
-![https://blogdoalves.neocities.org/]
+[https://blogdoalves.neocities.org/]
