@@ -1,0 +1,57 @@
+html,
+body{
+    height: 100vh;
+    font-size: 1rem;
+}
+
+header{
+    background-color:  #7159c1;
+}
+
+header img{
+    width: 100px;
+}
+
+header .container { 
+    background-color:  #7159c1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+    width: 90%;
+    max-width: 980px;
+    margin: auto;
+  }
+
+  .fasfa-heart{
+    width: 100px;
+    padding: 10px 2px;
+  }
+
+  header .logo{
+      display:flex;
+      align-items: center;
+      
+      color: white;
+      font-size: larger;
+  }
+
+  header nav div {
+      display: inline-block;
+  }
+
+  header nav {
+      list-style: none;
+  }
+
+  header nav div a {
+    color: #ecebeb;
+    font-size: 2.0rem;
+    padding: 10px;
+    
+  }
+
+
+  header div a:hover{
+    background-color: #6a3bac;
+  }

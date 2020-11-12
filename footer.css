@@ -1,0 +1,34 @@
+footer{
+    margin-top: 20px;
+    width: 100vw;
+    background-color: #e9e9e9;;
+}
+
+.bot-container{
+    background-color:  #e9e9e9;
+    width: 90%;
+    max-width: 980px;
+    height: 200px;
+    margin: auto;
+    padding: 20px;
+
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-direction: column;
+    
+}
+footer nav ul{
+    display: flex;
+    justify-content: center;
+}
+
+footer nav ul li{
+    list-style: none;
+}
+
+footer nav ul li{
+    color: #7159c1;
+    font-size: 3.0rem;
+    padding: 10px;
+} 
